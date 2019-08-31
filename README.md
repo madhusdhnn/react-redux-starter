@@ -1,1 +1,9 @@
 # react-redux-starter
+
+## Steps
+
+```git clone https://github.com/madhusdhnn/react-redux-starter.git```
+
+```sudo chmod +x ./create_react_redux_app.sh```
+
+```./create_react_redux_app.sh install <<DIR_NAME>>```
